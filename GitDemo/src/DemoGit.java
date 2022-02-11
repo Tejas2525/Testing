@@ -13,6 +13,9 @@ public class DemoGit
 	public static void main(String[] args) 
 	{
 	System.out.println("hello main GitHub");
+	DemoGit d=new DemoGit();
+	d.m1();
+	d.m2();
 
 	}
 
